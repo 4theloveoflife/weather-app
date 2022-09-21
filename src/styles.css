@@ -6,3 +6,9 @@ button{
     padding: 1px 6px;
     border:2px 2px;
 }
+
+@media (max-width:576px) {
+    .currentTemperature{
+        font-size: 34px;
+    }
+}
